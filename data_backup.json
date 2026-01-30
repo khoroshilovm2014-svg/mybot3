@@ -1,0 +1,173 @@
+{
+  "gift_accounts": [],
+  "user_gifts": {},
+  "promocodes": {},
+  "used_promocodes": {
+    "FREEAKS": {
+      "count": 1,
+      "users": [
+        {
+          "user_id": "1640017529",
+          "username": "HOPMAHOPM",
+          "used_at": "2026-01-12T01:47:16.265292",
+          "accounts_received": 3
+        }
+      ],
+      "first_used": "2026-01-12T01:47:16.265187"
+    }
+  },
+  "users": {
+    "7635015201": {
+      "username": "mixan2907",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:47:16.163664",
+      "used_promocodes": []
+    },
+    "8357170537": {
+      "username": "YakudzaLirov",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:47:16.378012",
+      "used_promocodes": []
+    },
+    "7621454091": {
+      "username": "Bonnie_6e3_ba6o4ki",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:47:16.824391",
+      "used_promocodes": []
+    },
+    "7565081829": {
+      "username": "DPAKOH_B_TAHKE",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:47:17.013457",
+      "used_promocodes": []
+    },
+    "6607675141": {
+      "username": "MAYOR_VOLK1_YT",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:47:18.574452",
+      "used_promocodes": []
+    },
+    "7163365120": {
+      "username": "SWAGASTAR",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T01:48:11.787885",
+      "used_promocodes": []
+    },
+    "8269899452": {
+      "username": "TkorFpzXBqq",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:20.801158",
+      "used_promocodes": []
+    },
+    "1298440093": {
+      "username": "vika03_08",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:20.801386",
+      "used_promocodes": []
+    },
+    "7062686472": {
+      "username": "Donniedarkooooooo",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:23.622230",
+      "used_promocodes": []
+    },
+    "5252311639": {
+      "username": "ProFFFESaR",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:23.862757",
+      "used_promocodes": []
+    },
+    "6452166186": {
+      "username": "Aggresslve",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:23.865258",
+      "used_promocodes": []
+    },
+    "6497370128": {
+      "username": "Gleb2400",
+      "balance": 0,
+      "referrals": [],
+      "referrer_id": null,
+      "history": [],
+      "accounts_available": 0,
+      "total_earned": 0,
+      "total_spent": 0,
+      "created_at": "2026-01-12T03:21:24.042880",
+      "used_promocodes": []
+    }
+  },
+  "referral_stats": {},
+  "account_distribution_stats": {
+    "hourly_count": 0,
+    "daily_count": 0,
+    "last_reset_hour": 3,
+    "last_reset_day": 12,
+    "distribution_history": []
+  }
+}
