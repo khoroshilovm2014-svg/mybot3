@@ -19,7 +19,7 @@ EXCHANGE_PRICE = 10  # Сколько монет стоит обмен на ак
 
 # ID ГЛАВНЫХ администраторов (Супер-админы, имеют все права и их нельзя удалить)
 SUPER_ADMIN_IDS = [7635015201] 
-TOKEN = "7862779341:AAFKl6t4RYzdLQ_yVDVaXtUMEXkxf9QZZ_E"
+TOKEN = "7862779341:AAH5F3k1mksrpklL0eMY16MMCZDsY2sulpk"
 
 # ПРАВА ДОСТУПА
 PERM_BAN = 'ban_users'
@@ -1628,4 +1628,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
